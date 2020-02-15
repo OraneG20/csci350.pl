@@ -1,0 +1,5 @@
+% #2-sum-up-numbers-general 
+sum-up-numbers-general([],0).
+sum-up-numbers-general([[]],0).
+sum-up-numbers-general([a],0).
+sum-up-numbers-general([b],0).
