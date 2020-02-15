@@ -1,0 +1,3 @@
+% #4-common-unique-elements
+common-unique-elements([], _,[]).
+common-unique-elements(_,[],[]).
