@@ -1,0 +1,3 @@
+sum-up-numbers-simple([L | N],TotalSum) :-
+	sum-up-numbers-simple(N,Sum1),
+	TotalSum is L + Sum1.
