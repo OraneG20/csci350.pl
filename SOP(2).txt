@@ -1,0 +1,4 @@
+sum-up-numbers-simple([a],0).
+sum-up-numbers-simple([b],0).
+sum-up-numbers-simple([c],0).
+sum-up-numbers-simple([[100]],0)
